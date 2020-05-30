@@ -1,4 +1,7 @@
 .navbar-bootswatch {
     @extend .navbar-light;
-    background-color: $white;
+    background-color: #0073a5;
+}
+.breadcrumb-item a{
+    color:#fff;
 }
